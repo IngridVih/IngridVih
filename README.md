@@ -8,20 +8,19 @@
   </a>
 </div>
 
+#
+
 <!-- Sobre -->
 <div align="left">
   <br>
-  
-  ## Full Stack Developer 💜
-  
-</div>
-
+<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<br>
 <div align="left">
   <p>
     <b>
-      Me chamo Ingrid Vitória Guimarães, sou técnica em Desenvolvimento de Sistemas e atualmente curso Bacharelado em Ciência da Computação e Superior em Inteligência Artificial. Sou apaixonada por tecnologia e aprendizado contínuo, focando no desenvolvimento de soluções inteligentes e inovadoras. Estou sempre buscando aprimorar minhas habilidades em programação, especialmente em Java, Python e Inteligência Artificial.
+      Me chamo Ingrid Vitória Guimarães, sou técnica em Desenvolvimento de Sistemas e atualmente curso Bacharelado em Ciência da Computação e Superior em Inteligência Artificial. 
+      Sou apaixonada por tecnologia e aprendizado contínuo, focando no desenvolvimento de soluções inteligentes e inovadoras. Estou sempre buscando aprimorar minhas habilidades em programação, especialmente em Java, Python e Inteligência Artificial.
     </b>
   </p>
 </div>
@@ -29,7 +28,8 @@
 <div align="left">
   <p>
     <b>
-      My name is Ingrid Vitória Guimarães. I’m a Systems Development Technician and currently pursuing a Bachelor's degree in Computer Science and Artificial Intelligence. I’m passionate about technology and continuous learning, focusing on developing smart and innovative solutions. I’m always looking to improve my programming skills, especially in Java, Python, and Artificial Intelligence.
+      My name is Ingrid Vitória Guimarães. I’m a Systems Development Technician and currently pursuing a Bachelor's degree in Computer Science and Artificial Intelligence. 
+      I’m passionate about technology and continuous learning, focusing on developing smart and innovative solutions. I’m always looking to improve my programming skills, especially in Java, Python, and Artificial Intelligence.
     </b>
   </p>
 </div>
