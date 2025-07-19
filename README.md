@@ -4,16 +4,19 @@
 <!-- Typing animação -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9E56FF&width=435&lines=Hi!+I'm+Ingrid+Vit%C3%B3ria;Welcome+to+my+portfolio!+%F0%9F%92%9C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=c8abf1&width=435&lines=Hi!+I'm+Ingrid+Vit%C3%B3ria;Welcome+to+my+portfolio!+%F0%9F%92%9C" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Sobre -->
-<div align="center">
+<div align="left">
   <br>
-  <h3><code>FullStack Developer</code></h3>
+  
+  ## Full Stack Developer 💜
+  
 </div>
-<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="left">
   <p>
@@ -23,8 +26,6 @@
   </p>
 </div>
 
-#
-
 <div align="left">
   <p>
     <b>
@@ -33,12 +34,12 @@
   </p>
 </div>
 
-#
-
 <!-- Tech stacks -->
-<h3 align="center"><code>Tech Stacks</code></h3>
+<br>
 
-<p align="center">
+## 👩‍💻 Tech Stacks 
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30px" style="padding: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30px" style="padding: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30px" style="padding: 0 10px;" />
@@ -48,55 +49,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="30px" style="padding: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30px" style="padding: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="30px" style="padding: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30px" style="padding: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30px" style="padding: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30px" style="padding: 0 10px;" />
 </p>
 
-#
+<br>
 
-<h3 align="center"><code>Connect with me!</code></h3>
-<div align="center">
-  
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=9745f5)](mailto:ingridguimaraes597@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=9745f5)](https://www.linkedin.com/in/ingrid-vitoria-guimaraes/)
-  
+## 💌 Conect with me!
+<div align="left">
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ingridguimaraes597@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-DF0174?style=flat-square&labelColor=DF0174&logo=gmail&logoColor=white&link=ingridguimaraes597@gmail.com" alt="Gmail"/>
+</a>
+  <a href="https://www.linkedin.com/in/ingrid-vitoria-guimaraes" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 </div>
 
-#
-
-<h3 align="center"><code>GitHub Stats</code></h3>
 <br>
 
 <div align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=IngridVih&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  />
-  <img
-    height="165"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
-  <br><br>
-  <img
-    alt="Profile Details"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IngridVih&theme=midnight_purple"
-  />
-  <br><br>
-  <img
-    height="154"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=IngridVih&theme=midnight-purple&card_width=885"
-  />
+  <picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
-#
+<br>
+<div align="center">
+  
+## ⭐ GitHub Stats
+
+</div>
 
 <div align="center">
-  <picture width="100%">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/github-contribution-grid-snake.svg" />
-  </picture>
+<a href="https://github.com/IngridVih">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridVih&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical"/>
 </div>
+
+<br><br>
+
+<div align="center">
+  
+  [![Ingrid Vitória's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IngridVih&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://streak-stats.demolab.com?user=IngridVih&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
