@@ -92,11 +92,10 @@
 <br>
 
 <!-- GitHub Stats -->
-<div align="left">
+<div align="center">
   <h2>⭐ GitHub Stats</h2>
 
   <a href="https://github.com/IngridVih">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridVih&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical"/>
   </a>
 
