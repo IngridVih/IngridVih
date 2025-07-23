@@ -94,10 +94,13 @@
 <!-- GitHub Stats -->
 <div align="center">
   <h2>⭐ GitHub Stats</h2>
+<br>
+  <div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=IngridVih&show_icons=true&theme=radical" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical" width="38%" />
+  </div>
+</div>
 
-  <a href="https://github.com/IngridVih">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridVih&layout=compact&langs_count=6&theme=radical"/>
-  </a>
 
 <br><br>
 
