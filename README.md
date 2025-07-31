@@ -77,7 +77,7 @@
 
 <!-- Conect -->
 <div align="left">
-  <h2>💌 Conect with me!</h2>
+  <h2>💌 Conect with me!!</h2>
 
   <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ingridguimaraes597@gmail.com" title="Gmail">
