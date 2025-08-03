@@ -34,11 +34,11 @@
 </div>
 
 <br>
-
+<!--
 ###
 ---
 
-<!-- Pacman graph 
+<!-- Pacman graph
 <div align="center">
   <picture width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph-dark.svg">
@@ -53,7 +53,6 @@
   ![snake gif](https://github.com/IngridVih/IngridVih/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
 ###
 ---
 <br>
