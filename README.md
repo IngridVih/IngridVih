@@ -46,7 +46,7 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg">
   </picture>
 </div>
--->
+
 
 <div align="center">
   
@@ -57,6 +57,7 @@
 ###
 ---
 <br>
+-->
 
 <!-- Tech stacks -->
 <div align="left">
