@@ -10,11 +10,11 @@
 
 <br>
 
-<!-- Sobre -->
+<!-- Sobre -->   
 <div align="left">
-  <h2>💜 Sobre mim</h2>
+  <h2>💜 Sobre mim</h2> 
 
-  <ul>
+  <ul> 
     <li><b>🎓 Formação:</b> Técnica em Desenvolvimento de Sistemas</li>
     <li><b>📚 Atualmente:</b> Cursando Ciência da Computação e Inteligência Artificial</li>
     <li><b>💡 Interesses:</b> Tecnologia, aprendizado contínuo e inovação</li>
