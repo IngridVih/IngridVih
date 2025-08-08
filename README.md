@@ -2,7 +2,11 @@
 <br> 
 
 <!-- Typing animação --> 
-
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=c8abf1&width=435&lines=Hi!+I'm+Ingrid+Vit%C3%B3ria;Welcome+to+my+portfolio!+%F0%9F%92%9C" alt="Typing SVG" />  
+  </a>
+</div>
 
 <br>
 
