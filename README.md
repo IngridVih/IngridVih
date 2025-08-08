@@ -18,7 +18,7 @@
     <li><b>🎓 Formação:</b> Técnica em Desenvolvimento de Sistemas</li>
     <li><b>📚 Atualmente:</b> Cursando Ciência da Computação e Inteligência Artificial</li>
     <li><b>💡 Interesses:</b> Tecnologia, aprendizado contínuo e inovação</li>
-    <li><b>🧠 Foco:</b> Java, Python e Inteligência Artificial</li>
+    <li><b>🧠 Foco:</b> Java, Python, Automações com N8N e Inteligência Artificial</li>
   </ul>
 
   <br>
@@ -29,7 +29,7 @@
     <li><b>🎓 Education:</b> Systems Development Technician</li>
     <li><b>📚 Currently:</b> Bachelor’s degree in Computer Science & Artificial Intelligence</li>
     <li><b>💡 Interests:</b> Technology, innovation, and continuous learning</li>
-    <li><b>🧠 Focus:</b> Java, Python, and Artificial Intelligence</li>
+    <li><b>🧠 Focus:</b> Java, Python, Automations with N8N and Artificial Intelligence</li>
   </ul>
 </div>
 
