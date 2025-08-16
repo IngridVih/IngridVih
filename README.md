@@ -12,7 +12,7 @@
 
 <!-- Sobre -->   
 <div align="left">
-  <h2>💜 Sobre mim</h2> 
+  <h2>💜 Sobre mim</h2>  
 
   <ul> 
     <li><b>🎓 Formação:</b> Técnica em Desenvolvimento de Sistemas</li>
