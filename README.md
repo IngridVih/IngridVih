@@ -38,18 +38,13 @@
 ###
 ---
 
-<!-- Pacman graph-->
 <!-- Pacman graph -->
 <div align="center">
-
   <!-- Light mode -->
   <img src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman contribution graph" width="100%">
-
   <!-- Dark mode -->
   <img src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph" width="100%">
-
 </div>
-
 
 <!--<div align="center">
   
