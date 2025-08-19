@@ -39,12 +39,15 @@
 ---
 
 <!-- Pacman graph-->
+<!-- Pacman graph -->
 <div align="center">
-  <picture width="100%">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg">
-  </picture>
+
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman contribution graph" width="100%">
+
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/IngridVih/IngridVih/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph" width="100%">
+
 </div>
 
 
