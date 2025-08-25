@@ -115,7 +115,7 @@
   
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=IngridVih&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+<!--<img src="https://streak-stats.demolab.com?user=IngridVih&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />-->
 
 </div>
 
